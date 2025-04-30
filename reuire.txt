@@ -1,0 +1,7 @@
+mediapipe
+streamlit
+opencv-python
+torch
+transformers
+Pillow
+numpy
